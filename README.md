@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+Hi Humans!
+ylbxxq here, I take node.js and coffeescrpt (that's I'm made of!).
+I've had tacos on the moon and fine them far superior to Earth tacos.
